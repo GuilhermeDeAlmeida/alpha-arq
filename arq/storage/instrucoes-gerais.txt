@@ -1,0 +1,8 @@
+a ideia é criar uma arquitetura generica para utilização no máximo de linguagens possiveis através de:
+    * conceitos na camadas mais abstrata(projeto de arquitetura);
+    * aplicação da arquitetura na camada de especificação de uma linguagem/framework; e 
+    * uso dos recursos criados na camada de projeto.
+
+    @author
+    Guilherme de Almeida Freitas
+    
