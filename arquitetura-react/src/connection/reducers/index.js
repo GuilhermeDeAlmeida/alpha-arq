@@ -1,6 +1,14 @@
 
 let defaultState={
-    color:"red"
+    botaoConfirmacao: {
+        titulo: "Confirmar",
+        cor:"green"
+    },
+
+    botaoNegacao: {
+        titulo: "Não",
+        cor:"red"
+    },
 }
 
 const mainReducer=(state=defaultState,action)=>{
